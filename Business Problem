@@ -2,3 +2,6 @@ Car Accident Severity Prediction
 
 Business Problem: Traffic is a major problem in any major city, accidents make traffic worst and cause major delays, sometimes delay in traffic might be a matter of life and death, for example for an ambulance.
 Therefore to be able to predict how jammed traffic will be any given time of the day or based on road conditions may help to avoid such traffic jams.
+
+Dataset: https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv
+
